@@ -7,7 +7,7 @@ Mon parcours est marqué par une passion inébranlable pour l'apprentissage cont
 </details>
 <details>
 <summary><h5>💡 Amoureux des solutions innovantes 💻</h5></summary>
-En tant que fervent chercheur de solutions, je me considère comme un artisan du progrès. J'apprécie particulièrement résoudre des problèmes complexes et trouver des moyens créatifs de surmonter les obstacles. 
+En tant que fervent chercheur de solutions, je me considère comme un artisan. J'apprécie particulièrement résoudre des problèmes complexes et trouver des moyens créatifs de surmonter les obstacles. 
 Mon approche est axée sur la recherche de solutions pratiques et efficaces qui bénéficient à la communauté.
 </details>
 <details>
